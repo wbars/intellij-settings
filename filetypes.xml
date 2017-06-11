@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".giignore" type="PLAIN_TEXT" />
+      <mapping pattern="container" type="PLAIN_TEXT" />
+      <mapping pattern="help" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
